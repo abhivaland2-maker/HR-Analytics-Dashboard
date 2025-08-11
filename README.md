@@ -8,6 +8,34 @@ This enables HR teams to identify key attrition drivers, predict future risks, a
 
 <a href = "https://github.com/abhivaland2-maker/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset Link</a>
 
+## Project Questions (KPIs)
+How many employees are there in total?
+
+How many employees left the company?
+
+What is the attrition rate?
+
+What is the average age, salary, and years of service?
+
+Which education field has the most attrition?
+
+Which age group has the most attrition?
+
+Which gender has higher attrition?
+
+Which salary range has the most attrition?
+
+Which job role has the highest attrition?
+
+Which department is most affected by attrition?
+
+In which years of service do most employees leave?
+
+## Dashboard Interaction
+
+<a href = "https://github.com/abhivaland2-maker/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png">View Dashboard</a>
+
+
 ## Tools & Technologies Used
 Power BI – Data visualization & dashboard creation
 
@@ -17,7 +45,9 @@ DAX (Data Analysis Expressions) – Calculations & measures
 
 Data Modeling – Relationship building for structured analysis
 
+
 ## Project Process
+
 Data Collection
 
 Gathered raw HR dataset with employee demographics, job details, salaries, education, and attrition records.
@@ -58,32 +88,6 @@ Highlighted factors affecting employee turnover
 
 Suggested data-backed retention strategies
 
-## KPI Questions Answered by the Dashboard
-How many employees are there in total?
-
-How many employees left the company?
-
-What is the attrition rate?
-
-What is the average age, salary, and years of service?
-
-Which education field has the most attrition?
-
-Which age group has the most attrition?
-
-Which gender has higher attrition?
-
-Which salary range has the most attrition?
-
-Which job role has the highest attrition?
-
-Which department is most affected by attrition?
-
-In which years of service do most employees leave?
-
-## Dashboard Interaction
-
-<a href = "https://github.com/abhivaland2-maker/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png">View Dashboard</a>
 
 ## Project Outcome
 Delivered an interactive HR analytics dashboard for real-time workforce insights.
@@ -91,3 +95,8 @@ Delivered an interactive HR analytics dashboard for real-time workforce insights
 Enabled HR teams to identify attrition drivers and create targeted retention strategies.
 
 Improved decision-making through data-driven analysis.
+
+## Project Dashboard
+
+<img width="1301" height="768" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/b8e0633c-0659-4112-9b32-002d33372b27" />
+
