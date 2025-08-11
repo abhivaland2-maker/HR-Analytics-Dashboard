@@ -89,7 +89,7 @@ Highlighted factors affecting employee turnover
 Suggested data-backed retention strategies
 
 
-## Project Outcome
+## Project Outcomes
 Delivered an interactive HR analytics dashboard for real-time workforce insights.
 
 Enabled HR teams to identify attrition drivers and create targeted retention strategies.
